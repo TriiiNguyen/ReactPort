@@ -25,11 +25,11 @@ npm install
 
 ## Credits
 
-undefined
+https://github.com/nordicgiant2/react-nice-resume
 
-## License
+## Deploy Link
 
-None
+
 
 ## How to Contribute
 
